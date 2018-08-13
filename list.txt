@@ -1,0 +1,5 @@
+Scheduling Algorithms
+1_1-First come first serve 
+1_2-Short Job First 
+1_3-Round Robin
+1_4-Priority
